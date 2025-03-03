@@ -52,19 +52,19 @@ const config = {
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
+                inGameName: "poethy",
+                rank: "Owner",
+                skinUrlOrPathToFile: "",
+                rankColor: "rgba(255, 3, 3, 1)"
+            },
+            {
                 inGameName: "AndrewOBermudez",
                 rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
             },
             {
-                inGameName: "Astronavta",
-                rank: "Manager",
-                skinUrlOrPathToFile: "",
-                rankColor: ""
-            },
-            {
-                inGameName: "Astronavta",
+                inGameName: "Moderator",
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
@@ -72,25 +72,25 @@ const config = {
         ],
         developers: [
             {
-                inGameName: "Astronavta",
+                inGameName: "Developer",
                 rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "Developer",
                 rank: "Developer",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "Webmaster",
                 rank: "Webmaster",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
             },
             {
-                inGameName: "Astronavta",
+                inGameName: "DiscordManager",
                 rank: "Discord manager",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
